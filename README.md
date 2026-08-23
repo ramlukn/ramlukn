@@ -1,6 +1,6 @@
 ### Nikhil Ramlukan
 
-Software & research · Baltimore, MD
+Software & research · Boston, MA
 
 Undergraduate at Johns Hopkins — Chemical & Biomolecular Engineering and Computer Science, class of 2029. Software engineering intern at Dash Bio. Undergraduate researcher at Harvard Medical School (passive, phone-based detection of early neurological impairment, with Dr. Kee B. Park) and Johns Hopkins School of Medicine (machine-learning risk stratification after elective craniotomy).
 
