@@ -8,7 +8,7 @@ Undergraduate at Johns Hopkins — Chemical & Biomolecular Engineering and Compu
 
 Some things I've built:
 
-- **[Peel](https://github.com/ramlukn/HackMIT-2026)** — a hundred-dollar optical dissolution tester that plugs into a phone, backed by an evidence engine that checks the pill against 22,000 recall records. The idea, the chemistry, and the classification layer were mine. **HackMIT 2026 Grand Prize winner**, and Elastic's first place. [Submission](https://plume.hackmit.org/project/qxodw-wgjqk-lidau-dxrpe).
+- **[Peel](https://github.com/ramlukn/HackMIT-2026)** — a sub thirty-dollar optical dissolution tester that plugs into a phone, backed by an evidence engine that checks the pill against 22,000 recall records. The idea, the chemistry, and the classification layer were mine. **HackMIT 2026 Grand Prize winner**, and Elastic's first place. [Submission](https://plume.hackmit.org/project/qxodw-wgjqk-lidau-dxrpe).
 - **[GreenChain](https://github.com/thejustjim/hackprinceton2026)** — ranks real manufacturers on emissions, transport CO₂, grid carbon, and climate risk. The backend — the models, the agents, the API — was mine. Won three tracks at HackPrinceton 2026.
 - **[Prophis](https://github.com/sophia-mai/yhack2026)** — simulates public-health interventions across US counties. The data, the ML, and the statistics were mine.
 - **[BrainSentry](https://github.com/ramlukn/brainsentry_mvp)** — a stroke self-check demo on a phone, presented to the health ministries of Indonesia and South Sudan. I designed it and co-built it.
